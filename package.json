@@ -28,7 +28,7 @@
     "bcrypt": "~0.8.5",
     "lodash": "~3.10.0",
     "moment": "~2.10.6",
-    "nodemailer": "2.3.0",
+    "nodemailer": "1.4.0",
     "jade": "~1.11.0",
     "jwt-simple": "~0.3.0",
     "node-uuid": "~1.4.2"
